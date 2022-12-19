@@ -1,38 +1,45 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+# Edisi entot mastah
+> Mamam ni ngentot script ampas aja di masalahin blog
+
+> Original base[`Link`](https://github.com/HelgaIlham/ZukaBet)
 # Bot Whatsapp Multi Auth 
  
  <p align="center">
 <img width="" src="https://img.shields.io/github/repo-size/BOTCAHX/RTXZY-MD?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor">
 </p>
 
-> **Warning**: 
-> Telah update ke multi auth !
+> Telah menggunakan baileys multi auth !
 > Penjelasan sesi [`Here`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
 
-- Ubah nomor owner Bot Di Sini
+## List Menu Troube Discussion 
+> [`Read Discussion`](https://github.com/BOTCAHX/RTXZY-MD/discussions/46)
+
+## Instalasi Package Error
+> [`Gunakan Backup`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/package.json.bak) 
+## Penjelasan 
 - Sc ini bisa ambil sesi di module di bawah ini
 - [`Visite Module`](https://replit.com/@tioclkp02/Sessions-Multi-Auth?lite=1&outputonly=1)
 - [`Fork & Get sessions`](https://replit.com/@tioclkp02/Sessions-Multi-Auth)
 - Setelah scan download sessions yg sudah terkoneksi tersebut lalu upload ke github
 - Upload tepat di folder sessions.
-- Perlu di ingat sesi multi auth bukan session.data.json dan bukan dalam satu file melainkan terdapat banyak file.
+- Perlu di ingat sesi multi auth bukan session.data.json/sesion.json dan bukan dalam satu file auth, saja melainkan terdapat banyak file bercampur dengan auth & pre-key.
 
 ## Logs level
 - Jika ingin mengubah level pino nya maka ubah di line ini [`Logs level`](https://github.com/BOTCAHX/RTXZY-MD/blob/c67a8427d123c4e49d761d34912fb23f169d89a2/main.js#L74)
 - Opsi tersedia : silent , debug , trace
-## Panel Pterodaktyl Deploy
+## WhatsApp Bot Hosting
 > Deploy bot mudah dan cepat di panel 
-
-- Free 
+ 
 - Runtime 24/7
 - No delay !
 - Server selalu up-to-date 
-**Register Here** 
+**Link** 
 
-[`Panel Server 1`](https://bit.ly/3DwHn0t)
+[`Panel Server`](https://chat.whatsapp.com/DxpLoatBNjrLPgWyedB1St)
 
 > **Warning**: 
-> Run bot anti banned dan delay cukup pencet button start dan bot otomatis berjalan.
 ## Join Group Diskusi
 [![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0) 
 
@@ -211,9 +218,9 @@ sepuh | sepuh |
 <a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
 [Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
 sepuh | sepuh |
-<a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
-[Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
-For Help | Sepuh |
+<a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> 
+[Ferdiz](https://github.com/FERDIZ-afk) 
+For Help
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![caf](http://github.com/CAF-ID.png?size=100)](http://github.comCAF-ID) 
 [Adiwajshing](https://github.com/adiwajshing) | [caf](https://github.com/CAF-ID)
 Owner of Baileys | Sepuh |

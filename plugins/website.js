@@ -2,8 +2,8 @@ let handler = async m => {
 
 let krtu = `web`
 m.reply(`
-> • bio.onee-dev.my.id => Biodata Owner
-> • wf.onee-dev.my.id => Waifu Generator
+> http://api.tiodevhost.my.id
+> http://ytdl.tiodevhost.my.id
 `.trim()) 
 }
 handler.command = /^(web)$/i

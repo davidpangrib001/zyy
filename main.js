@@ -1,7 +1,6 @@
 (async () => {
 require('./config')
 const {
-  useSingleFileAuthState,
   useMultiFileAuthState,
   DisconnectReason
 } = require('@adiwajshing/baileys')
@@ -65,14 +64,14 @@ loadDatabase()
 // if (opts['cluster']) {
 //   require('./lib/cluster').Cluster()
 // }
-const authFile = `${opts._[0] || 'WA-Session'}`
+const authFile = `${opts._[0] || 'sessions'}`
 global.isInit = !fs.existsSync(authFile)
 const { state, saveState, saveCreds } = await useMultiFileAuthState(authFile)
 
 const connectionOptions = {
   printQRInTerminal: true,
   auth: state,
-  logger: P({ level: 'silent'}),
+  logger: P({ level: 'debug'}),
   version: [2, 2204, 13]
 }
 

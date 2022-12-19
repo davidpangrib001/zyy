@@ -13,7 +13,7 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
     let uptime = clockString(_uptime)
     let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
     let ar = ['list', 'menu']
-    let title = `Hello, User! 👋`
+    let title = `*© BOTCAHX*`
     let tmb = `CLICK HERE ⎙`
     const sections = [ {
 	title: `Aktif Selama ${uptime} || Waktu ${time} WIB`,
@@ -34,7 +34,7 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
 const listMessage = {
   text: title,
   mentions: [m.sender],
-  footer: '*My Info* :\nJangan Spam Bot, Kalo Ada Yang Error Lapor Ke Owner, Owner Ga Nerima Save',
+  footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
   buttonText: tmb,
   sections
 }

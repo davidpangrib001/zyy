@@ -1,7 +1,7 @@
 {
     "name": "rtxzy",
     "version": "3.0",
-    "description": "Customizable WhatsApp Bot",
+    "description": "Simple Whatsapp Bot",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -24,11 +24,11 @@
         "wabot-aq",
         "multi-device",
         "MD",
-        "baileys-md"
+        "baileys"
     ],
     "homepage": "https://github.com/BOTCAHX/RTXZY-MD",
     "author": {
-        "name": "Base Coded By TioXd"
+        "name": "Bot by BOTCAHX"
     },
     "repository": {
         "type": "git",
@@ -39,7 +39,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:hostinger-bot/baileys",
+        "@adiwajshing/baileys": "github:BOTCAHX/baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^3.0.0",
         "instagram-url-direct": "^1.0.12",
@@ -51,7 +51,6 @@
         "axios": "^0.27.2",
         "base64-to-image": "^1.0.2",
         "canvacord": "^5.4.7",
-        "cfonts": "^2.10.0",
         "chalk": "^4.1.2",
         "cheerio": "^1.0.0-rc.12",
         "colors": "1.4.0",
