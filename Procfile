@@ -1,1 +1,1 @@
-worker: node alpha.js
+worker: npm i && node alpha.js
