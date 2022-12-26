@@ -261,7 +261,7 @@ async function startalpha() {
                 alpha.logout();
             } else alpha.end(`Unknown DisconnectReason: ${reason}|${connection}`)
         }
-        console.log('Nothing Info :/', update)
+        console.log('Hello, Owner!', update)
 //        console.log('Connected To...', 'wa.me/' + alpha.user.id.split(':')[0])
     })
 
