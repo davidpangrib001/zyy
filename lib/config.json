@@ -1,0 +1,20 @@
+{
+  "thumb": "https://telegra.ph/file/cb852d3390a43c0813e2c.jpg",
+  "namebot": "Onee-MD",
+  "botNumber": "6282128475388@s.whatsapp.net",
+  "owner": ["6283171710709@s.whatsapp.net"],
+  "instagram": "https://instagram.com/davidpangrib001",
+  "author": "YTTA",
+  "session": "session",
+  "email": "ytta@my.id",
+  "self": false,
+  "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
+  "packInfo":{
+    "packname": "WhatsApp Sticker\n\n\n\n\n\n\n",
+    "author": ""
+  },
+  "ignore": {
+		"directory": ["umum"]
+	},
+	"timezone": "Asia/Jakarta"
+}
